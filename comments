@@ -1,26 +1,12 @@
 [
-    {
-      "id": 1,
-"transactionId": "IW_9636753-6925082",
-      "dataPlan": "Silver",
-"equipmentIdentificator": "AA:BB:CC:DD:EE:FF",
-      "orderStatus": "addService-Executed-Success"
-      "postId": 1
-    },
-    {
-      "id": 2,
-"transactionId": "IW_5078716-3935689",
- "dataPlan": "Bronze",
-"equipmentIdentificator": "AA:BB:CC:DD:EE:FF",
- "orderStatus": "modifyService-Executed-Success"
-      "postId": 2
-    },
-        {
-      "id": 3,
-"transactionId": "IW_6946881-8947331",
-"dataPlan": "Gold",
-"equipmentIdentificator": "AA:BB:CC:DD:EE:FF",
-"orderStatus": "deleteService-Executed-Success"
-      "postId": 3
-    }
-  ]
+  {
+    "id": 1,
+    "body": "comment 1",
+    "postId": 1
+  },
+  {
+    "id": 2,
+    "body": "comment 2",
+    "postId": 1
+  }
+]
