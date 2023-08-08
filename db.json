@@ -18,12 +18,12 @@
   ],
   "comments": [
     {
-      "id": 1000,
+      "id": 1,
       "body": "comment 1",
       "postId": 1000
     },
     {
-      "id": 1020,
+      "id": 1,
       "body": "comment 2",
       "postId": 1020
     }
